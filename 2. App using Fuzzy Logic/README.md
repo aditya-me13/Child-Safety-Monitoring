@@ -42,4 +42,4 @@ Check out the [demonstration video on YouTube](https://www.youtube.com/watch?v=q
 ## Collaborators:
 
 1. Abhinav Goud: [Github](https://github.com/Zerefdark69420)
-2. Akshat Barnval: [Github](https://github.com/brave-tarnished)
+2. Akshat Barnwal: [Github](https://github.com/brave-tarnished)

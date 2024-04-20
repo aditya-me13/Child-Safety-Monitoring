@@ -47,5 +47,5 @@ Check out the [demonstration video on YouTube](https://youtu.be/fA2nxhroGQ0) to 
 
 ## Collaborators:
 
-1. Abhinav Goud: [Github]()
-2. Akshat Barnwal: [Github]()
+1. Abhinav Goud: [Github](https://github.com/Zerefdark69420)
+2. Akshat Barnwal: [Github](https://github.com/brave-tarnished)

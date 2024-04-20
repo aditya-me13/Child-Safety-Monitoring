@@ -3,7 +3,6 @@
 This repository contains the source code for a Fall Detection and Alert System designed using **Fuzzy logic** to enhance child safety during cycling. The app leverages embedded hardware sensors on an Android/iOS phone, acting as a smart IoT device, to monitor various parameters and provide real-time alerts to parents' devices.
 
 ## Features:
-# Fall Detection and Alert System
 
 1. **Accelerometer Monitoring:**
    - Constantly monitors accelerometer data of the phone when the application is active to detect falls.
